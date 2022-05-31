@@ -1,4 +1,4 @@
-# better-sculk
+# Better Sculk Mod
 A Minecraft Mod that rewards the farming of mobs with more yield.
 
 This is the source code of my first Minecraft mod made in Fabric. Or at least the first mod I felt confident in sharing.
