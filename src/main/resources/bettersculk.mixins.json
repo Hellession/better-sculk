@@ -1,0 +1,17 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.hellession.bettersculk.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "BetterCursor",
+    "UpdatedSculkBlock",
+    "PatchedSculkVein"
+  ],
+  "client": [
+    "ExampleMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

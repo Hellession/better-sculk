@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "bettersculk:block/green_sculk"
+      },
+      {
+        "model": "bettersculk:block/green_sculk_mirrored"
+      },
+      {
+        "model": "bettersculk:block/green_sculk",
+        "y": 180
+      },
+      {
+        "model": "bettersculk:block/green_sculk_mirrored",
+        "y": 180
+      }
+    ]
+  }
+}
