@@ -9,12 +9,12 @@
     "Hellession"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "twitter": "https://twitter.com/RealHellession",
+    "sources": "https://github.com/Hellession/better-sculk",
+    "discord": "https://discord.com/MZb8cUD"
   },
 
   "license": "MIT",
-  "icon": "assets/modid/icon.png",
 
   "environment": "*",
   "entrypoints": {
