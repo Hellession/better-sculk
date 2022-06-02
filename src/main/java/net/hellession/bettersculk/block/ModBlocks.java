@@ -17,10 +17,10 @@ public class ModBlocks {
 
     public static final Block GREEN_SCULK = registerBlock("green_sculk",
             new CustomSculkBlock(FabricBlockSettings.of(Material.SCULK).sounds(BlockSoundGroup.SCULK).strength(1f, 0.4f), 2, true),
-            ItemGroup.MISC);
+            ItemGroup.DECORATIONS);
     public static final Block PINK_SCULK = registerBlock("pink_sculk",
             new CustomSculkBlock(FabricBlockSettings.of(Material.SCULK).sounds(BlockSoundGroup.SCULK).strength(1.4f, 0.7f), 4, false),
-            ItemGroup.MISC);
+            ItemGroup.DECORATIONS);
 
     private static Block registerBlock(String name, Block block, ItemGroup group)
     {
