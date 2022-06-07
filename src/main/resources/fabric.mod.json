@@ -14,7 +14,7 @@
     "discord": "https://discord.com/MZb8cUD"
   },
 
-  "license": "MIT",
+  "license": "LGPL-3",
 
   "environment": "*",
   "entrypoints": {
