@@ -14,7 +14,7 @@ import net.minecraft.util.math.random.Random;
 import net.minecraft.world.WorldAccess;
 
 public class CustomSculkBlock
-        extends OreBlock
+        extends ExperienceDroppingBlock
         implements SculkSpreadable {
     /*
     Normally, I would inherit from SculkBlock directly from Minecraft. The issue, however,

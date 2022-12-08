@@ -4,7 +4,6 @@ import net.hellession.bettersculk.block.ModBlocks;
 import net.hellession.bettersculk.util.IBetterCursor;
 import net.minecraft.block.Block;
 import net.minecraft.block.BlockState;
-import net.minecraft.block.OreBlock;
 import net.minecraft.block.SculkBlock;
 import net.minecraft.block.entity.SculkSpreadManager;
 import net.minecraft.sound.SoundCategory;
